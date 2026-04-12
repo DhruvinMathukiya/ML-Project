@@ -1,0 +1,10 @@
+[ 2026-04-12 11:33:18,820 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2026-04-12 11:33:18,822 ] 97 werkzeug - INFO -  * Debugger PIN: 813-950-869
+[ 2026-04-12 11:33:27,125 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2026 11:33:27] "GET / HTTP/1.1" 200 -
+[ 2026-04-12 11:33:28,338 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2026 11:33:28] "GET / HTTP/1.1" 200 -
+[ 2026-04-12 11:33:28,552 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2026 11:33:28] "GET / HTTP/1.1" 200 -
+[ 2026-04-12 11:33:29,684 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2026 11:33:29] "GET / HTTP/1.1" 200 -
+[ 2026-04-12 11:33:29,841 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2026 11:33:29] "GET / HTTP/1.1" 200 -
+[ 2026-04-12 11:33:30,059 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2026 11:33:30] "GET / HTTP/1.1" 200 -
+[ 2026-04-12 11:33:41,747 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2026 11:33:41] "GET / HTTP/1.1" 200 -
+[ 2026-04-12 11:34:52,378 ] 97 werkzeug - INFO -  * Detected change in 'D:\\code\\ML Project\\app.py', reloading

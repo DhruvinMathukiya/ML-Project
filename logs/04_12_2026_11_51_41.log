@@ -1,0 +1,12 @@
+[ 2026-04-12 11:51:42,081 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2026-04-12 11:51:42,081 ] 97 werkzeug - INFO -  * Debugger PIN: 813-950-869
+[ 2026-04-12 11:51:44,823 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2026 11:51:44] "GET / HTTP/1.1" 200 -
+[ 2026-04-12 11:51:45,756 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2026 11:51:45] "GET / HTTP/1.1" 200 -
+[ 2026-04-12 11:51:45,913 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2026 11:51:45] "GET / HTTP/1.1" 200 -
+[ 2026-04-12 11:51:46,068 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2026 11:51:46] "GET / HTTP/1.1" 200 -
+[ 2026-04-12 11:51:46,292 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2026 11:51:46] "GET / HTTP/1.1" 200 -
+[ 2026-04-12 11:51:46,855 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2026 11:51:46] "GET / HTTP/1.1" 200 -
+[ 2026-04-12 11:51:46,985 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2026 11:51:46] "GET / HTTP/1.1" 200 -
+[ 2026-04-12 11:51:47,131 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2026 11:51:47] "GET / HTTP/1.1" 200 -
+[ 2026-04-12 11:51:47,353 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Apr/2026 11:51:47] "GET / HTTP/1.1" 200 -
+[ 2026-04-12 11:52:24,098 ] 97 werkzeug - INFO -  * Detected change in 'D:\\code\\ML Project\\src\\pipeline\\predict_pipeline.py', reloading

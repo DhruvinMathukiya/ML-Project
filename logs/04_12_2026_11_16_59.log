@@ -1,0 +1,4 @@
+[ 2026-04-12 11:16:59,556 ] 4 root - INFO - MAIN STARTED
+[ 2026-04-12 11:17:00,441 ] 8 root - INFO - TEST LOG FILE
+[ 2026-04-12 11:17:00,503 ] 18 root - INFO - Starting application
+[ 2026-04-12 11:17:00,504 ] 22 root - INFO - Created DataTransformation object
