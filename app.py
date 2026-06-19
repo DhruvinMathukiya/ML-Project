@@ -7,10 +7,11 @@ application = Flask(__name__)
 app = application
 
 #  Home Page
+from flask import redirect, url_for
+
 @app.route('/')
 def index():
-    return "<h1>INDEX WORKING</h1>"
-
+    return redirect(url_for('predict_datapoint'))
 
 #  Prediction Page
 @app.route('/predictdata', methods=['GET','POST'])
